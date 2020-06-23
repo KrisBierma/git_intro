@@ -1,1 +1,2 @@
-KrisBierma
+Kris Bierma
+biermak@oregonstate.edu
